@@ -13,14 +13,5 @@ namespace MedicalCenter_App
 
     public partial class WebForm1
     {
-
-        /// <summary>
-        /// Kontrolka form1.
-        /// </summary>
-        /// <remarks>
-        /// Pole generowane automatycznie.
-        /// Aby wprowadzić zmiany, przenieś deklarację pola z pliku projektanta do pliku codebehind.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
     }
 }
