@@ -7,12 +7,13 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
    <title>AJ Medical Center | Home Page</title>
+   <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
   <header class="header">
         <div class="header-top">
             <div class="logo">
-                <img src='<%= ResolveUrl("AJMecidalCenterLogo.png") %>' alt="AJ Medical Center Logo" />
+                <img src='<%= ResolveUrl("AJMedicalCenterLogo.png") %>' alt="AJ Medical Center Logo" />
             </div>
 
             <nav>
@@ -29,6 +30,9 @@
             <h1>Welcome to AJ Medical Center</h1>
             <p>Professional medical care with a personalized approach for every patient</p>
         </div>
+       <div class="building">
+                <img src='<%= ResolveUrl("AJMedicalCenterBuilding.png") %>' alt="AJ Medical Center Building" />
+       </div>
     </header>
     <section class="contact">
         <div class="container">
