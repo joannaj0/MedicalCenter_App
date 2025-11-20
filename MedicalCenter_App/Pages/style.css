@@ -1,3 +1,4 @@
+﻿
 ﻿body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -12,7 +13,7 @@
 
 .header-top {
     display: flex;
-    justify-content: space-between; 
+    justify-content: space-between;
     align-items: center;
     padding: 20px 40px;
 }
@@ -22,7 +23,7 @@
 }
 
 .building img {
-    width: 100%; 
+    width: 100%;
     height: auto;
     display: block;
 }
@@ -63,7 +64,7 @@ nav ul {
     }
 
 .contact {
-    background: #e7f5ff; 
+    background: #e7f5ff;
     padding: 50px 20px;
     text-align: center;
 }
